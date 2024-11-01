@@ -1,5 +1,9 @@
 # Blinkit Analysis - India’s Last-Minute App
 
+## Quick Links
+- [Blinkit Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWNjNTFlODktYzhkZC00YzJiLWJmNGYtNGI2NDA2ZTA5NTEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Portfolio Website](https://codebasics.io/portfolio/Pankaj-Shinde)
+
 ## Project Overview
 This project involves creating a Power BI dashboard to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution, highlighting insights and opportunities for optimization.
 
